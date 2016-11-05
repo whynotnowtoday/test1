@@ -2,6 +2,6 @@
 - name: fish
   command: uptime 
 - name: ffff
-  yum: ddd 
+  
 
     
